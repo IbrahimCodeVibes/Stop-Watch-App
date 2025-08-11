@@ -60,6 +60,7 @@ No dependencies. No bloat. Just clean web magic ✨
 ## 📃 License
 
 This project is open source and free to use.
+Follow Me On IG !
 
 ---
 
